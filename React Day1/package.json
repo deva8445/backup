@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.73.0"
+  },
+  "name": "react-day1",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "build": "webpack",
+    "build:w": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
